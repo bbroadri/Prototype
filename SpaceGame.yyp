@@ -197,6 +197,14 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "f743f1a9-d9fc-4e4e-a3d7-63acc1bc26c1",
+            "Value": {
+                "id": "2b890c16-8d55-4665-9dc2-e72da42b2bcf",
+                "resourcePath": "sprites\\spr_placeHolderAsteroid\\spr_placeHolderAsteroid.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
