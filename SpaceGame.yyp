@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "013b909e-16ee-4faf-acf3-1b1267e3639c",
-            "Value": {
-                "id": "875ddbbe-e3be-4216-8898-9b89a364ef1a",
-                "resourcePath": "sounds\\snd_shipflying\\snd_shipflying.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "1ac7928b-36d9-4cc7-b183-87c1c0eb0c5d",
             "Value": {
                 "id": "82486c44-78cd-4b20-ac04-71af950d9e68",
