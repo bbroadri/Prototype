@@ -8,3 +8,4 @@ if (global.shipHealth==1)
 	{instance_destroy(obj_health2)};
 if (global.shipHealth==0)
 	{instance_destroy(obj_health1)};	
+instance_destroy(self)
