@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "7920b419-72de-4eab-b30e-8aaeb43c87ad",
+            "Value": {
+                "id": "15315e6a-d7c8-4aac-ba48-1b2fc641060d",
+                "resourcePath": "sprites\\spr_placeHolderShip\\spr_placeHolderShip.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f29f66e-f97e-4885-9150-8cceca8870a8",
             "Value": {
                 "id": "0fd440b2-b2c0-4591-a4c3-e52c18b0c608",
