@@ -2,7 +2,7 @@
 {
     "name": "r_play",
     "id": "5198de24-6c60-43be-9e65-071ad0cba93c",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
