@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "165f4867-430f-4609-b21c-aee893e24000",
+            "Value": {
+                "id": "d4835c78-aa30-42f3-b560-3eb2592be73b",
+                "resourcePath": "sprites\\spr_placeHolderPlanet\\spr_placeHolderPlanet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1ac7928b-36d9-4cc7-b183-87c1c0eb0c5d",
             "Value": {
                 "id": "82486c44-78cd-4b20-ac04-71af950d9e68",
@@ -292,6 +300,14 @@
                 "id": "cdf256e9-a626-4b2c-8c41-f6ba52d4b65b",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f44b2b87-d270-43c4-a2d3-8dd43e04c276",
+            "Value": {
+                "id": "ac1fa8aa-de06-4494-846b-ed7e8f8ecbfe",
+                "resourcePath": "objects\\o_planetPickup\\o_planetPickup.yy",
+                "resourceType": "GMObject"
             }
         },
         {
