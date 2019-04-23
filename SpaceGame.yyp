@@ -231,6 +231,22 @@
             }
         },
         {
+            "Key": "8ac12319-c45b-492e-b7f5-e3f1290aabf1",
+            "Value": {
+                "id": "3963d471-4458-4146-b2ee-0ef399aa15ca",
+                "resourcePath": "objects\\obj_asteroidSpawner\\obj_asteroidSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "943258be-2a42-491f-9b4d-1d99d61a77df",
+            "Value": {
+                "id": "87f234d6-5abc-496e-ae9b-fb89d39d51c2",
+                "resourcePath": "objects\\obj_timer\\obj_timer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "987be6c3-e58d-4686-a304-6dd40254095b",
             "Value": {
                 "id": "89804c76-a12e-4a07-9d5b-8e46e28e0a5b",
