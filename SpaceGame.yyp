@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "52b0e851-ed76-4bc0-ad8e-32625bdb3883",
+            "Value": {
+                "id": "dc762941-25e4-44be-91dc-41a77669cb46",
+                "resourcePath": "tilesets\\tileset3\\tileset3.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "552f7c23-d1ab-4b8c-9fc7-ee330a72705f",
             "Value": {
                 "id": "6752a5bd-79a6-4082-87c6-de8ad8a0821d",
@@ -180,6 +188,14 @@
                 "id": "e6b9abf1-7944-4d79-8b3f-5499eca44877",
                 "resourcePath": "views\\58f3fb4e-064a-480f-8a49-ae0ffe69868b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6133a4ba-71bc-458a-9b8a-986d6f54023e",
+            "Value": {
+                "id": "14923c81-36d7-49d4-95f3-7338e559b125",
+                "resourcePath": "sprites\\spr_loseScreen\\spr_loseScreen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -228,6 +244,14 @@
                 "id": "0fd440b2-b2c0-4591-a4c3-e52c18b0c608",
                 "resourcePath": "views\\7f29f66e-f97e-4885-9150-8cceca8870a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "87cb12d1-b38f-4242-9bc6-85eda943d22c",
+            "Value": {
+                "id": "f9aa0f7f-a414-4288-9728-85fc0cab4590",
+                "resourcePath": "sprites\\spr_restartbutton\\spr_restartbutton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
