@@ -5,7 +5,27 @@
     "name": "obj_asteroid",
     "eventList": [
         {
-            "id": "02c00847-a49d-4f69-b05b-d0c5b29c935b",
+            "id": "de912be1-5cf8-46d0-9a56-d574b9f6ff1f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "dfe5a6e8-9e8c-4505-ba6b-3430cda70295",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "a65cdaea-0621-4716-9b3c-9585614c9d5a"
+        },
+        {
+            "id": "6ca45aeb-5227-447e-a136-e16c53777404",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "f44b2b87-d270-43c4-a2d3-8dd43e04c276",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "a65cdaea-0621-4716-9b3c-9585614c9d5a"
+        },
+        {
+            "id": "aa0f0b9f-4d57-41f5-8a51-6e2f66c9cc5d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -33,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f743f1a9-d9fc-4e4e-a3d7-63acc1bc26c1",
+    "spriteId": "987be6c3-e58d-4686-a304-6dd40254095b",
     "visible": true
 }
