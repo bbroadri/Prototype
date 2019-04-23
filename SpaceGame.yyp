@@ -63,11 +63,35 @@
             }
         },
         {
+            "Key": "3257d2e6-b0e1-457b-b5c1-bf80b990f053",
+            "Value": {
+                "id": "ffc7192c-4a89-4dcb-a54d-3eaccbc08f2e",
+                "resourcePath": "sprites\\spr_titlescreen\\spr_titlescreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3ab3c2b4-7bb7-4e2e-ab8c-90989e1fedfc",
+            "Value": {
+                "id": "30ce845f-528c-4e16-8eab-b202b483adb1",
+                "resourcePath": "sprites\\spr_startbutton\\spr_startbutton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e87494d-8be5-49ea-8680-1eaf8ba1a8c5",
             "Value": {
                 "id": "47839f45-6088-4f97-a82c-3a2c6a03fd1f",
                 "resourcePath": "views\\3e87494d-8be5-49ea-8680-1eaf8ba1a8c5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3f2e6520-c843-40ae-9623-fc2a277ed7c9",
+            "Value": {
+                "id": "fe738fc9-6ed0-489d-a798-7890d8d60b35",
+                "resourcePath": "sprites\\spr_winScreen\\spr_winScreen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -127,6 +151,14 @@
             }
         },
         {
+            "Key": "576f9045-27c4-4348-804c-42b2cfc95b76",
+            "Value": {
+                "id": "bf03f747-0812-4bab-b8ce-7529445a7a6e",
+                "resourcePath": "sprites\\spr_ship\\spr_ship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "58f3fb4e-064a-480f-8a49-ae0ffe69868b",
             "Value": {
                 "id": "e6b9abf1-7944-4d79-8b3f-5499eca44877",
@@ -172,6 +204,14 @@
                 "id": "0fd440b2-b2c0-4591-a4c3-e52c18b0c608",
                 "resourcePath": "views\\7f29f66e-f97e-4885-9150-8cceca8870a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "987be6c3-e58d-4686-a304-6dd40254095b",
+            "Value": {
+                "id": "89804c76-a12e-4a07-9d5b-8e46e28e0a5b",
+                "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -244,6 +284,14 @@
                 "id": "71323949-ec27-4764-9b98-12aaca436e5a",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d052f691-1fc6-44c9-a1ac-c1a898655848",
+            "Value": {
+                "id": "5130d546-806c-4979-afad-a2f42bb08b34",
+                "resourcePath": "sprites\\spr_ufo\\spr_ufo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -324,6 +372,14 @@
                 "id": "ad16ec49-d426-4b70-b099-f97b569ebb66",
                 "resourcePath": "views\\f7562242-f6e5-4d44-beba-a98763223d91.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb5084f9-5949-418f-8498-e0f126a4500b",
+            "Value": {
+                "id": "51b4a16e-faec-49e2-954d-56d41dc83b1b",
+                "resourcePath": "sprites\\spr_planet\\spr_planet.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
