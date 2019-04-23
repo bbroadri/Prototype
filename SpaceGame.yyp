@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "4c552ceb-4db4-486e-9fa6-8bf08b120235",
+            "Value": {
+                "id": "20e91708-8b81-4d5f-8844-97eca25a1bec",
+                "resourcePath": "sounds\\snd_hit\\snd_hit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4fce40b8-88c8-4465-ad40-8f4b20985277",
             "Value": {
                 "id": "aa7cd83e-4944-43e0-8bc9-7e1b28dcdbb1",
