@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "88b509c2-185a-46b8-9fbd-8f585b820b94",
+            "Value": {
+                "id": "5179340f-1402-4daf-8296-7460cb8a5017",
+                "resourcePath": "objects\\obj_timer\\obj_timer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "987be6c3-e58d-4686-a304-6dd40254095b",
             "Value": {
                 "id": "89804c76-a12e-4a07-9d5b-8e46e28e0a5b",
@@ -327,6 +335,14 @@
             }
         },
         {
+            "Key": "c1a6c95f-1ddf-4a5a-b190-ad4ea0d3d7f7",
+            "Value": {
+                "id": "4e6a1f18-d748-4def-b67b-c93e1a241df2",
+                "resourcePath": "objects\\obj_asteroidSpawner\\obj_asteroidSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c2e00ed1-337f-4267-9ca6-26ecfa074adc",
             "Value": {
                 "id": "53f3e9a6-ad49-410f-a8fb-dc70cc0e56e6",
@@ -379,6 +395,14 @@
             "Value": {
                 "id": "968a9566-f264-49d1-b5fb-2c238e78c95b",
                 "resourcePath": "objects\\o_ship\\o_ship.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e119d540-c769-49d5-9159-57b37ad6cc24",
+            "Value": {
+                "id": "f0192d7a-7481-4b42-bf22-cfd1299463e3",
+                "resourcePath": "objects\\obj_fullscreenToggle\\obj_fullscreenToggle.yy",
                 "resourceType": "GMObject"
             }
         },
