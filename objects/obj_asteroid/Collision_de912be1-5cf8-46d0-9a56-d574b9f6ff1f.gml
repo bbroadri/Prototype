@@ -1,6 +1,7 @@
  /// @description Insert description here
 // You can write your code in this editor
-
+if (global.shipHealth==1)
+	{room_goto(r_lose)}
 global.shipHealth-=1
 if (global.shipHealth==2)
 	{instance_destroy(obj_health3)};
