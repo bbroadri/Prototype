@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "5aa7baf3-2729-4b78-988e-8ebf275ad8e9",
+            "Value": {
+                "id": "36cf21d1-6e49-4a23-ad3f-777b640f5086",
+                "resourcePath": "sprites\\spr_placeHolderBlackHole\\spr_placeHolderBlackHole.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6133a4ba-71bc-458a-9b8a-986d6f54023e",
             "Value": {
                 "id": "14923c81-36d7-49d4-95f3-7338e559b125",
