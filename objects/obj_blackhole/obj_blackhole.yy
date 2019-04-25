@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_blackhole",
     "eventList": [
-        
+        {
+            "id": "0fa15b2d-c0e4-4fe7-bae8-578e83dfdabc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "303e33ef-2010-4680-801a-e241525e51c3"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
