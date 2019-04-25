@@ -1,7 +1,7 @@
  /// @description Insert description here
 // You can write your code in this editor
 if (global.shipHealth==3)
-	{instance_destroy(obj_health3)};
+	{instance_destroy(obj_health1)};
 if (global.shipHealth==2)
 	{instance_destroy(obj_health2)};
 if (global.shipHealth==1)
