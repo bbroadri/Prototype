@@ -5,13 +5,13 @@
     "name": "obj_health2",
     "eventList": [
         {
-            "id": "b5754075-979d-48fa-bdfd-8974437d1611",
+            "id": "750d331a-05ba-4b01-8da2-33f9af7f7096",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
+            "eventtype": 1,
             "m_owner": "f0f284eb-8f89-4c70-828d-e0f0a6801793"
         }
     ],
