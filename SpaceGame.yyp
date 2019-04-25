@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1b0cbf6a-9060-4175-8903-ffe7d1363cef",
+            "Value": {
+                "id": "4e1269b5-ddbc-446c-bffe-ee84d21cbf9f",
+                "resourcePath": "objects\\obj_blackholespawner\\obj_blackholespawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2763ad36-d707-46a5-a93f-f811910d5fc7",
             "Value": {
                 "id": "c8086617-c54e-4bbd-99e7-61231265117c",
@@ -331,6 +339,14 @@
             "Value": {
                 "id": "2ba315a4-9abe-4f80-b62e-21f47ee84500",
                 "resourcePath": "objects\\obj_asteroid\\obj_asteroid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a690aa22-5222-4eb6-adcb-ded76dd1ca2a",
+            "Value": {
+                "id": "76939e9f-1dbf-49b2-95a4-8d2fe451c321",
+                "resourcePath": "objects\\obj_fullscreenToggle\\obj_fullscreenToggle.yy",
                 "resourceType": "GMObject"
             }
         },
