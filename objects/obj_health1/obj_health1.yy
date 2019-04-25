@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_health1",
     "eventList": [
-        
+        {
+            "id": "096bb32d-534a-4a01-9578-f274be69ea10",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "79f3811d-7d08-45a5-8cb1-920e30fc4270"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e7c64c16-faf9-490a-bab6-096af45a5379",
+    "spriteId": "f6718b03-b84a-41fe-b4c5-bec18a92783b",
     "visible": true
 }
