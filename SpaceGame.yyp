@@ -231,14 +231,6 @@
             }
         },
         {
-            "Key": "62b755d6-1e23-43c1-97c6-47497606096a",
-            "Value": {
-                "id": "ec20888b-5665-4639-8563-f65f549a3eab",
-                "resourcePath": "objects\\obj_asteroidSpawner\\obj_asteroidSpawner.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7003b8e1-169f-4caf-9d57-4941d33e080f",
             "Value": {
                 "id": "5a24ecf9-dc80-4a39-89e7-8743092d39df",
@@ -287,27 +279,11 @@
             }
         },
         {
-            "Key": "87a13b22-c0de-4abc-8704-7bf4398d5027",
-            "Value": {
-                "id": "13df87e0-d811-4274-b85d-d627d24393f4",
-                "resourcePath": "objects\\o_shipMovement\\o_shipMovement.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "87cb12d1-b38f-4242-9bc6-85eda943d22c",
             "Value": {
                 "id": "f9aa0f7f-a414-4288-9728-85fc0cab4590",
                 "resourcePath": "sprites\\spr_restartbutton\\spr_restartbutton.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "92662c93-f8dd-40c6-b433-2e9a95950ada",
-            "Value": {
-                "id": "bc8f02cf-c475-40ae-b894-f76181e07273",
-                "resourcePath": "objects\\obj_timer\\obj_timer.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -423,14 +399,6 @@
             }
         },
         {
-            "Key": "d67e7389-e156-4ce4-b5fb-afdd4cca2373",
-            "Value": {
-                "id": "aa41a0bf-2b85-41a0-ac8c-0b517bddab43",
-                "resourcePath": "sprites\\spr_cursor\\spr_cursor.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d6e36873-373e-4b64-b7c8-b5e3d4b8bf8d",
             "Value": {
                 "id": "50e25140-51ff-4b12-8d48-bf77d2f3f371",
@@ -468,14 +436,6 @@
                 "id": "8e68b430-d50d-4a29-880c-a4afe2339d27",
                 "resourcePath": "sprites\\spr_placeHolderHealth\\spr_placeHolderHealth.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "eb10dc52-3661-43ce-8594-87f90330ac71",
-            "Value": {
-                "id": "0e664744-7cd3-4dd3-857a-486c449be7c7",
-                "resourcePath": "objects\\o_cursor\\o_cursor.yy",
-                "resourceType": "GMObject"
             }
         },
         {
