@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "303e33ef-2010-4680-801a-e241525e51c3",
+            "Value": {
+                "id": "767ec8e9-fae5-49ec-9dd1-b867bbc34420",
+                "resourcePath": "objects\\obj_blackhole\\obj_blackhole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3257d2e6-b0e1-457b-b5c1-bf80b990f053",
             "Value": {
                 "id": "ffc7192c-4a89-4dcb-a54d-3eaccbc08f2e",
