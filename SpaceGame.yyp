@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "9ca524fb-35c8-4bb0-ac92-d77ce02088ba",
+            "Value": {
+                "id": "d8275586-b723-438a-a421-15d4f7444604",
+                "resourcePath": "sprites\\spr_ship_anim\\spr_ship_anim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a3eb6d69-ec0d-4393-934f-416632101b70",
             "Value": {
                 "id": "bc5cea35-6b60-428f-9db5-c82f7e980afb",
