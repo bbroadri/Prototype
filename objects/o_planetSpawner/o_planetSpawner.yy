@@ -1,28 +1,28 @@
 {
-    "id": "a690aa22-5222-4eb6-adcb-ded76dd1ca2a",
+    "id": "da016a60-38db-4c78-881d-547c8d2f7911",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_fullscreenToggle",
+    "name": "o_planetSpawner",
     "eventList": [
         {
-            "id": "cd3bdc66-e523-4ff9-a7db-f20f0b5a23c8",
+            "id": "8bf6cbe2-cfb7-4271-a448-23819565b5cb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 70,
-            "eventtype": 9,
-            "m_owner": "a690aa22-5222-4eb6-adcb-ded76dd1ca2a"
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "da016a60-38db-4c78-881d-547c8d2f7911"
         },
         {
-            "id": "3b0e8b3a-2657-4192-82e0-1b2627a8d4a6",
+            "id": "3dce3ce4-e488-4532-a7f8-f6f91cf5a604",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "a690aa22-5222-4eb6-adcb-ded76dd1ca2a"
+            "m_owner": "da016a60-38db-4c78-881d-547c8d2f7911"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
