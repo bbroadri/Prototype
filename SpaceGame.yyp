@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "b3295acd-156b-47d5-99d2-5f8a8bf685b9",
+            "Value": {
+                "id": "41d02931-5064-417a-9901-468665b4f3d7",
+                "resourcePath": "views\\b3295acd-156b-47d5-99d2-5f8a8bf685b9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b4d56a64-392e-40ce-ba19-c2c7401663a2",
             "Value": {
                 "id": "b65e6e48-c13a-4172-b353-9027637868ed",
@@ -428,6 +436,14 @@
                 "id": "50e25140-51ff-4b12-8d48-bf77d2f3f371",
                 "resourcePath": "views\\d6e36873-373e-4b64-b7c8-b5e3d4b8bf8d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "da016a60-38db-4c78-881d-547c8d2f7911",
+            "Value": {
+                "id": "89e503ab-a159-4019-b160-d64616674141",
+                "resourcePath": "objects\\o_planetSpawner\\o_planetSpawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -516,14 +532,6 @@
                 "id": "2b890c16-8d55-4665-9dc2-e72da42b2bcf",
                 "resourcePath": "sprites\\spr_placeHolderAsteroid\\spr_placeHolderAsteroid.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f7562242-f6e5-4d44-beba-a98763223d91",
-            "Value": {
-                "id": "ad16ec49-d426-4b70-b099-f97b569ebb66",
-                "resourcePath": "views\\f7562242-f6e5-4d44-beba-a98763223d91.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
