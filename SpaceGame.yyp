@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "62b755d6-1e23-43c1-97c6-47497606096a",
+            "Value": {
+                "id": "ec20888b-5665-4639-8563-f65f549a3eab",
+                "resourcePath": "objects\\obj_asteroidSpawner\\obj_asteroidSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7003b8e1-169f-4caf-9d57-4941d33e080f",
             "Value": {
                 "id": "5a24ecf9-dc80-4a39-89e7-8743092d39df",
@@ -276,6 +284,14 @@
                 "id": "f9aa0f7f-a414-4288-9728-85fc0cab4590",
                 "resourcePath": "sprites\\spr_restartbutton\\spr_restartbutton.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "92662c93-f8dd-40c6-b433-2e9a95950ada",
+            "Value": {
+                "id": "bc8f02cf-c475-40ae-b894-f76181e07273",
+                "resourcePath": "objects\\obj_timer\\obj_timer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
