@@ -2,7 +2,7 @@
     "id": "60572df6-f104-4cf5-9ebe-973e6c65d750",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite19",
+    "name": "spr_brownplanet",
     "For3D": false,
     "HTile": false,
     "VTile": false,
