@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "da016a60-38db-4c78-881d-547c8d2f7911",
+            "Value": {
+                "id": "89e503ab-a159-4019-b160-d64616674141",
+                "resourcePath": "objects\\o_planetSpawner\\o_planetSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "de60c246-2c07-4088-80f4-6d2a977fd751",
             "Value": {
                 "id": "388e10af-d4a9-42f6-ae0d-3386cc022944",

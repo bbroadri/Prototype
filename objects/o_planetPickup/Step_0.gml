@@ -10,3 +10,7 @@ if (held==true){
 		else speed = 6-(thisPlanetPosition/2)
 	}
 }
+else{
+	direction = point_direction(x,y,x,y+1000)
+	speed = 1
+}
