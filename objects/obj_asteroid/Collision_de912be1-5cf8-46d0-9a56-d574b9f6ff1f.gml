@@ -10,3 +10,5 @@ if (global.shipHealth==1)
 if (global.shipHealth==0)
 	{instance_destroy(obj_health1)};	
 instance_destroy(self)
+
+audio_play_sound(snd_hit,1,0);

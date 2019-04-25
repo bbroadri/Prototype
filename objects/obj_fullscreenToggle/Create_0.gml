@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-instance_destroy();
-audio_play_sound(snd_hit,1,0);
+screen=0
+window_set_cursor(cr_none)
