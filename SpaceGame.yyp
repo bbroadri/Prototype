@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1b0cbf6a-9060-4175-8903-ffe7d1363cef",
+            "Value": {
+                "id": "4e1269b5-ddbc-446c-bffe-ee84d21cbf9f",
+                "resourcePath": "objects\\obj_blackholespawner\\obj_blackholespawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2763ad36-d707-46a5-a93f-f811910d5fc7",
             "Value": {
                 "id": "c8086617-c54e-4bbd-99e7-61231265117c",
@@ -204,14 +212,6 @@
                 "id": "5b7f599e-fc7e-41f9-a61e-f6159e13dd48",
                 "resourcePath": "sprites\\spr_fuel2\\spr_fuel2.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "61331334-db1f-4e6b-ae52-394f606e847d",
-            "Value": {
-                "id": "56ad43a7-e322-485e-9697-efed07a7cfe9",
-                "resourcePath": "views\\61331334-db1f-4e6b-ae52-394f606e847d.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
