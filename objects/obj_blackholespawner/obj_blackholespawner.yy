@@ -1,18 +1,28 @@
 {
-    "id": "77e562f6-0abe-47cb-86f0-8be204c16eb2",
+    "id": "1b0cbf6a-9060-4175-8903-ffe7d1363cef",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_blackhole",
+    "name": "obj_blackholespawner",
     "eventList": [
         {
-            "id": "71ea4f25-b90f-45dc-987c-4d0c91aa8d89",
+            "id": "d8aaf37b-bc4c-438e-8217-489312d09750",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "77e562f6-0abe-47cb-86f0-8be204c16eb2"
+            "m_owner": "1b0cbf6a-9060-4175-8903-ffe7d1363cef"
+        },
+        {
+            "id": "45a7c71e-4db7-48a7-ab7f-af3f935f6143",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "1b0cbf6a-9060-4175-8903-ffe7d1363cef"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f1544415-e06d-4fd4-923f-b712c60b42ee",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

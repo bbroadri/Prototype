@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1b0cbf6a-9060-4175-8903-ffe7d1363cef",
+            "Value": {
+                "id": "4e1269b5-ddbc-446c-bffe-ee84d21cbf9f",
+                "resourcePath": "objects\\obj_blackholespawner\\obj_blackholespawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2763ad36-d707-46a5-a93f-f811910d5fc7",
             "Value": {
                 "id": "c8086617-c54e-4bbd-99e7-61231265117c",
