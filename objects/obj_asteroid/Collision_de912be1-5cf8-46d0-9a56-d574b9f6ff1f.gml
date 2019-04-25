@@ -10,4 +10,4 @@ global.shipHealth-=1
 	
 instance_destroy(self)
 
-audio_play_sound(snd_hit,1,0);
+//audio_play_sound(snd_hit,1,0);
