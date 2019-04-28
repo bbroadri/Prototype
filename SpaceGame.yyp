@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "38122095-b722-447b-a79f-f4d8fcc7cc58",
+            "Value": {
+                "id": "e9e811e0-3597-44d1-9815-c92463eaf739",
+                "resourcePath": "sprites\\spr_brownplanet\\spr_brownplanet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ab3c2b4-7bb7-4e2e-ab8c-90989e1fedfc",
             "Value": {
                 "id": "30ce845f-528c-4e16-8eab-b202b483adb1",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "5d8d28c2-f03c-475f-bc6a-fa36a4a84d81",
+            "Value": {
+                "id": "152f4d27-78c8-4d82-a4fa-2ff087b07291",
+                "resourcePath": "sprites\\spr_swirlplanet\\spr_swirlplanet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6133a4ba-71bc-458a-9b8a-986d6f54023e",
             "Value": {
                 "id": "14923c81-36d7-49d4-95f3-7338e559b125",
@@ -239,6 +255,14 @@
             }
         },
         {
+            "Key": "7df386ee-9b1e-41f1-87a6-1f725889bc8d",
+            "Value": {
+                "id": "c067ea9f-6661-4c23-9386-e173d15e2dd1",
+                "resourcePath": "sprites\\spr_planet_pickup\\spr_planet_pickup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f29f66e-f97e-4885-9150-8cceca8870a8",
             "Value": {
                 "id": "0fd440b2-b2c0-4591-a4c3-e52c18b0c608",
@@ -251,6 +275,14 @@
             "Value": {
                 "id": "f9aa0f7f-a414-4288-9728-85fc0cab4590",
                 "resourcePath": "sprites\\spr_restartbutton\\spr_restartbutton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8a34b964-693b-4ed2-924d-75a36bb36893",
+            "Value": {
+                "id": "1a7cea4b-b89a-442c-852b-4a989a948ba4",
+                "resourcePath": "sprites\\spr_swirlplanet_pickup\\spr_swirlplanet_pickup.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -324,6 +356,14 @@
                 "id": "873aec6f-4742-4068-b8ad-de0872c4654c",
                 "resourcePath": "views\\b9d92b7a-cb9d-41c0-b8f4-bf87c489af94.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c17ad1a1-a3a5-45a9-ab82-cdb5086c3e58",
+            "Value": {
+                "id": "fa19943c-9bc1-4ed1-9cee-6507c11e6339",
+                "resourcePath": "sprites\\spr_brownplanet_pickup\\spr_brownplanet_pickup.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
