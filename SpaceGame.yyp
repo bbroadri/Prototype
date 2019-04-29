@@ -298,7 +298,7 @@
             "Key": "98a695af-3815-49ee-8364-778ca4aa418e",
             "Value": {
                 "id": "9a8000f5-c86f-435a-827a-6096455dd2cb",
-                "resourcePath": "sprites\\sprite21\\sprite21.yy",
+                "resourcePath": "sprites\\spr_fireasteroid\\spr_fireasteroid.yy",
                 "resourceType": "GMSprite"
             }
         },

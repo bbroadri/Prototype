@@ -2,7 +2,7 @@
     "id": "98a695af-3815-49ee-8364-778ca4aa418e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite21",
+    "name": "spr_fireasteroid",
     "For3D": false,
     "HTile": false,
     "VTile": false,
